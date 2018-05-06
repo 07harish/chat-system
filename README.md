@@ -1,18 +1,18 @@
 # Real-time-chat-system
 #### Real-time chat system using : Ajax jquery, PHP, Javascript, html and css. 
-When there is No messages. Also I have javaScripted some part ;)
+##### When there is No messages. Also I have javaScripted some part ;)
 
 
 ![All_New](img.png) 
 
 
-Inbox messages :
+##### Inbox messages :
 
 
 ![Inbox](img1.png) 
 
 
-Sent messages :
+##### Sent messages :
 
 
 ![sent_messages](img2.png)
